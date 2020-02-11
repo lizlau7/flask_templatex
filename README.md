@@ -1,26 +1,27 @@
 # Flask Template
 Basic structure for starting a Flask project with Jinja templates
+
 ---
-- [] Clone repository to local computer.
+1. Clone repository to local computer
 
-- [] Rename the directory to reflect the new project name.
+2. Rename the directory to reflect the new project name
 
-- [] Delete .git folder.
+3. Delete .git folder
 
-- [] Create a new virtual environment.(```python -m venv ./venv```)
+4. Create a new virtual environment. ```python -m venv ./venv```
 
-- [] Activate the new virtual environment
-  Windows (```.\venv\Scripts\activate```)
-  Mac     (```source ./venv/bin/activate```)
+5. Activate the new virtual environment
+ - Windows:  ```.\venv\Scripts\activate```
+  - Mac:  ```source ./venv/bin/activate```
 
-- [] Install the dependencies (```pip install -r requirements.txt```).
+6. Install the dependencies ```pip install -r requirements.txt```
 
-- [] Make project folder a repository (```git init```).
+7. Make project folder a repository ```git init```
 
-- [] Track the files in the local repository (```git add .```)
+8. Track the files in the local repository ```git add .```
 
-- [] Make the first commit of this new project (```git commit -m 'first commit of <project name>```) from flask_template.
+9. Make the first commit of this new project ```git commit -m 'first commit of <project name>``` from flask_template
 
-- [] On Github, create a new repository. DO NOT initialize it.
+10. On Github, create a new repository. DO NOT initialize it
 
-- [] Connect the local repository to the new Github repository (```git remote add origin <<repository_URL>>```)
+11. Connect the local repository to the new Github repository ```git remote add origin <<repository_URL>>```
