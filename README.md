@@ -2,7 +2,7 @@
 Basic structure for starting a Flask project with Jinja templates
 
 ---
-1. Clone repository to local computer
+1. Clone this repository to local computer
 
 2. Rename the directory to reflect the new project name
 
